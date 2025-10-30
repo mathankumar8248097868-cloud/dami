@@ -1,0 +1,16 @@
+.content-section {
+  max-width: 400px;
+  margin: auto;
+  padding: 2rem;
+  background-color: #ffffff;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+}
+.login-submit-btn {
+  width: 100%;
+  padding: 0.5rem;
+}
+#create-account {
+  margin-top: 1rem;
+  text-align: center;
+}
